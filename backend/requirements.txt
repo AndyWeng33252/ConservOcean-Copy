@@ -1,0 +1,9 @@
+Flask
+requests
+Flask-restful
+flask-sqlalchemy
+Black
+pylint
+Mypy
+psycopg2-binary
+flask-cors
